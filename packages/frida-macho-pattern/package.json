@@ -1,0 +1,27 @@
+{
+  "name": "frida-macho-pattern",
+  "version": "1.0.0",
+  "description": "Mach-O pattern for Frida",
+  "main": "macho.hexpat",
+  "files": [
+    "macho.hexpat"
+  ],
+  "keywords": [
+    "frida",
+    "frida-gum",
+    "frida-pattern",
+    "imhex",
+    "hexpat",
+    "mach-o"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frida/frida-patterns.git",
+    "directory": "packages/frida-macho-pattern"
+  },
+  "homepage": "https://github.com/frida/frida-patterns/tree/main/packages/frida-macho-pattern#readme",
+  "bugs": {
+    "url": "https://github.com/frida/frida-patterns/issues"
+  },
+  "license": "MIT"
+}

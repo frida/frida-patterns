@@ -1,0 +1,7 @@
+{
+  "name": "frida-patterns",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

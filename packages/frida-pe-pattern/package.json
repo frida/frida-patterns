@@ -1,0 +1,27 @@
+{
+  "name": "frida-pe-pattern",
+  "version": "1.0.0",
+  "description": "PE and COFF pattern for Frida",
+  "main": "pe.hexpat",
+  "files": [
+    "pe.hexpat"
+  ],
+  "keywords": [
+    "frida",
+    "frida-gum",
+    "frida-pattern",
+    "imhex",
+    "hexpat",
+    "pe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frida/frida-patterns.git",
+    "directory": "packages/frida-pe-pattern"
+  },
+  "homepage": "https://github.com/frida/frida-patterns/tree/main/packages/frida-pe-pattern#readme",
+  "bugs": {
+    "url": "https://github.com/frida/frida-patterns/issues"
+  },
+  "license": "MIT"
+}

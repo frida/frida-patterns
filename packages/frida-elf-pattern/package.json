@@ -1,0 +1,27 @@
+{
+  "name": "frida-elf-pattern",
+  "version": "1.0.0",
+  "description": "ELF pattern for Frida",
+  "main": "elf.hexpat",
+  "files": [
+    "elf.hexpat"
+  ],
+  "keywords": [
+    "frida",
+    "frida-gum",
+    "frida-pattern",
+    "imhex",
+    "hexpat",
+    "elf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frida/frida-patterns.git",
+    "directory": "packages/frida-elf-pattern"
+  },
+  "homepage": "https://github.com/frida/frida-patterns/tree/main/packages/frida-elf-pattern#readme",
+  "bugs": {
+    "url": "https://github.com/frida/frida-patterns/issues"
+  },
+  "license": "MIT"
+}
