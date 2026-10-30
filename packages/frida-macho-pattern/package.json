@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frida/frida-patterns.git",
+    "url": "git+https://github.com/frida-packages/frida-patterns.git",
     "directory": "packages/frida-macho-pattern"
   },
-  "homepage": "https://github.com/frida/frida-patterns/tree/main/packages/frida-macho-pattern#readme",
+  "homepage": "https://github.com/frida-packages/frida-patterns/tree/main/packages/frida-macho-pattern#readme",
   "bugs": {
-    "url": "https://github.com/frida/frida-patterns/issues"
+    "url": "https://github.com/frida-packages/frida-patterns/issues"
   },
   "license": "MIT"
 }
